@@ -1,0 +1,7 @@
+flask~=2.1.1
+requests~=2.27.1
+Flask-SQLAlchemy~=2.5.1
+Flask-Migrate~=3.1.0
+Werkzeug~=2.1.1
+alembic~=1.7.7
+SQLAlchemy~=1.4.35
